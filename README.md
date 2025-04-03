@@ -1,0 +1,1 @@
+# Big-Data-Architecture-for-a-real-time-data-processing-scenario.-
